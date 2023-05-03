@@ -5,7 +5,7 @@ Os códigos desse repositório dão sugestões de resolução dos exercícios do
 ## Dependências:
 • Python3
 
-##Problemas:
+## Problemas:
 - 01: Contando nucleotídeos de DNA
 - 02: Transcrevendo DNA em RNA
 - 03: Complementando a fita de DNA
