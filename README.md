@@ -3,5 +3,5 @@ Rosalind é uma plataforma para o ensino de bioinformática e programação atra
 Os códigos desse repositório dão sugestões de resolução dos exercícios do Rosalind utilizando Python.
 
 # Dependências:
-• Python versão 3
+• Python3
 
